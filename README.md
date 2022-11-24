@@ -23,8 +23,12 @@ npm run dev
 ```
 
 ### Compile and Minify for Production
+### Compile and Minify for Production
+### Compile and Minify for Production
 
 ```sh
 npm run build
 ```
-//adsfadsfadsfadsfdasf
+### Compile and Minify for Production
+### Compile and Minify for Production
+### Compile and Minify for Production
